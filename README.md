@@ -1,1 +1,1 @@
-projeto trinando git 
+projeto treinando git 
